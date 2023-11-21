@@ -3,8 +3,14 @@
   <img src="https://media.giphy.com/media/ptzlRfMuHaGgccUzbh/giphy.gif" width="300"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/svetlana-lisina-developer">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="https://career.habr.com/svetlanagreenfox">
+      <img src="https://img.shields.io/badge/Habr_Career-blue?style=flat-square&logo=habr&logoColor=white" alt="Habr Badge"/>
+    </a>
+    <a href="https://pushkino.hh.ru/resume/d9714470ff0c9bf6960039ed1f3230354c6d72">
+      <img src="https://img.shields.io/badge/HeadHunter-red?style=flat-square" alt="Head Hunter Badge"/>
+    </a>  
   </div>
   <h1>
     I am Sveta
