@@ -33,6 +33,9 @@ I am Junior Frontend Developer from Moscow.
 - :seedling: I continue to study new technologies and looking for a developer dream team.
 
 - :cyclone: In my free time, I do sports.
+  
+<hr color="#FF8C00">
+:star: Link to my portfolio https://svetlanagreenfox.github.io/
 
 <hr color="#FF8C00">
 
